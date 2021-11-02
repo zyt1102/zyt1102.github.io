@@ -1,0 +1,10 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+I am a second-year Master of Public Health (MPH) student at the Columbia University Mailman School of Public Health, in the department of Population & Family Health. I am specializing in Public Health Research Methods. 
+I come from China and in my free time I would like to go to library.

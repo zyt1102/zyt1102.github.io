@@ -1,0 +1,16 @@
+---
+title: "My Website"
+---
+
+This is an [R Markdown website about me](about.html), created by [zyt1102](http://jeffgoldsmith.com) for Data Science I at [Columbia Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics).
+
+
+### link to my resume
+
+[Resume](about.html)
+
+### Links to professional networks
+
+Github and email icon can be found on the top right corner of the website.
+
+[Linkedin](https://www.linkedin.com/in/yushan-wang-237a821b9/)

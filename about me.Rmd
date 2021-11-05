@@ -1,0 +1,10 @@
+---
+title: "my website"
+author: "zyt1102"
+date: "11/4/2021"
+output: html_document
+---
+```{r}
+rmarkdown::render_site
+```
+
